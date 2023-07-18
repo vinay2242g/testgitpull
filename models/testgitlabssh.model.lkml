@@ -1,5 +1,5 @@
 connection: "vsds"
-#my comment
+#my comment123
 # include all the views
 include: "/views/**/*.view.lkml"
 
